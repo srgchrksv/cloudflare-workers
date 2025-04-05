@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"compatibility_date": "2025-04-01",
 	"main": "src/index.ts",
-	"name": "cloudflare-workers",
+	"name": "twilight-dew-94dc",
 	"upload_source_maps": true,
 	"d1_databases": [
 		{
